@@ -1,0 +1,1 @@
+Found 92 hex numbers: e,d,a,e,c,ec,e,ad,c,e,ed,d,e,d,e,c,d,d,ab,e,e,d,e,a,a,a,a,e,ad,e,a,1234abcd,d,e,e,c,a,a,c,ab,a,e,ea,c,d,c,e,a,D,a,e,e,d,9f9f9f9f,e,e,e,de,a,e,e,e,e,c,d,e,e,f,a,a,a,a,E,ce,e,ccaeca,c,da,a,de,c,a,ff,c,a,de,e,a,d,e,ab,1234567890abcdef

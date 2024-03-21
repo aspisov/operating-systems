@@ -1,0 +1,1 @@
+66 Шестнадцатеричных чисел: e,d,a,e,c,ec,e,ad,c,e,1234567890abcdef,e,b,ac,d,a,a,e,a,e,c,a,e,e,e,ed,a,e,d,ABCDEF,e,e,e,e,d,c,a,da,b,123ABC,456DEF,789abc,def456,C,ab,a,a,e,e,c,a,ac,ec,abcdef,C,a,c,e,a,ed,a,a,d,c,a,0123456789ABCDEF

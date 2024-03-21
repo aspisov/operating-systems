@@ -1,1 +1,0 @@
-Boundary testing: a10 and a good day for 0x10, but not hex7en or 1234g.
