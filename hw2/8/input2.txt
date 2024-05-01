@@ -1,0 +1,3 @@
+./initialize_garden 8 1
+./gardener1 1
+./gardener2 2

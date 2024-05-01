@@ -1,0 +1,1 @@
+./initialize_garden 7 3 4 1
