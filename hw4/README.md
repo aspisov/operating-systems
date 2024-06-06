@@ -1,5 +1,3 @@
-Here is the rewritten report to reflect that the client-server application uses UDP:
-
 # Отчёт  ИДЗ 4 (Вариант 21)
 
 ### Исполнитель
