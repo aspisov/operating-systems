@@ -1,0 +1,21 @@
+# terminal 1
+Server listening on port 8080
+New connection accepted
+Client type: 2
+New connection accepted
+Client type: 1
+New connection accepted
+Client type: 1
+^C%     
+
+# terminal 2
+Connected to server
+Server is shutting down. Exiting...
+
+# terminal 3
+Connected to server
+Server is shutting down. Exiting...
+
+# terminal 4
+Connected to server
+Server is shutting down. Exiting...
